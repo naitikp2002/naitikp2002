@@ -4,7 +4,7 @@ Hi 👋 My name is Naitik Patel
 Web developer
 -------------
 
-Computer Science & Engg | Front-end ReactJS Developer | Pursuing MERN stack internship
+Computer Science & Engg | Front-end ReactJS Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [naitikpatel2002@gmail.com](mailto:naitikpatel2002@gmail.com)
