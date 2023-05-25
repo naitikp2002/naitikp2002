@@ -8,7 +8,7 @@ Computer Science & Engg | Front-end ReactJS Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [naitikpatel2002@gmail.com](mailto:naitikpatel2002@gmail.com)
-* 🧠  I'm learning Node.js
+* 🧠  I'm learning MERN Stack
 
 ### Skills
 
